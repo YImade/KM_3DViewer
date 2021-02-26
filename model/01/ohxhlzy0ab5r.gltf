@@ -99,6 +99,11 @@
             "target": 34963
         }
     ],
+    "images": [
+    {
+      "uri": "textures/scene.jpeg"
+    }
+  ],
     "materials": [
         {
             "name": "DefaultMaterial",
