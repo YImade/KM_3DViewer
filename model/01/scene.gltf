@@ -1,6 +1,7 @@
 {
   "accessors": [
     {
+       "bufferView": 2,
       "componentType": 5125,
       "count": 490338,
       "max": [
